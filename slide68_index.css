@@ -1,12 +1,18 @@
-button{
-background-color:#00FF00;
-color:#FF0000;
-font-size:18pt;
-margin:10px;
+button {
+    background-color: #00FF00;
+    /* change 3: Changed text color to white */
+    color: #FFFFFF;
+    font-size: 18pt;
+    margin: 10px;
+    /* change 5: Added border-radius */
+    border-radius: 8px;
 }
-#danger-btn{
-background-color:#0000FF;
+
+#danger-btn {
+    /* change 4: Changed background color to red */
+    background-color: #FF0000;
 }
-.green-bg{
-background-color:#000000;
+
+.green-bg {
+    background-color: #000000;
 }
